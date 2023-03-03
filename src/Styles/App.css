@@ -1,0 +1,9 @@
+body{
+    background-color: gainsboro;
+}
+
+.App{
+    width: 70%;
+    margin: auto;
+    background: whitesmoke;
+}
